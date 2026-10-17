@@ -9,7 +9,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YogenderKala&style=for-the-badge&color=7B2FF7&label=PROFILE+VIEWS)
+[![Profile Views](https://hits.sh/github.com/YogenderKala.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=7B2FF7&labelColor=0f0c29)](https://hits.sh/github.com/YogenderKala/)
 ![Followers](https://img.shields.io/github/followers/YogenderKala?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29)
 ![Stars](https://img.shields.io/github/stars/YogenderKala?style=for-the-badge&logo=starship&color=302b63&labelColor=0f0c29)
 
@@ -127,9 +127,6 @@ public class Yogender implements BackendDeveloper {
 
 <img src="https://streak-stats.demolab.com?user=YogenderKala&theme=tokyonight&hide_border=true&background=0D1117&border_radius=16&date_format=j%20M%5B%20Y%5D" alt="streak" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YogenderKala&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&line=7B2FF7&point=00F7FF" alt="activity graph" width="95%" />
 
 </div>
 
